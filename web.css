@@ -1,0 +1,21 @@
+body { background-image: radial-gradient(#ffffff,#0c772e ) ;background-repeat: no-repeat;
+       color: #555555;font-family:Arial, Helvetica, sans-serif ;}
+header {background-color: #29485d;
+     color: #FFFFFF; background-image:url(logo.png);background-repeat:no-repeat;background-position: right;height: 60px;padding-top: 15px;text-align: center;}
+h1 { margin-top: 0;font-family:Georgia, 'Times New Roman', Times, serif;}
+h2 { color: #407386;font-family: Georgia, 'Times New Roman', Times, serif; text-shadow: 1px 1px 1px #cccccc;}
+h3 { color:#29485d; font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;}
+main {padding-top: 1px;padding-right: 20px;padding-left: 20px;padding-bottom: 20px; display: block;}
+ul {list-style-image: url(marker.gif); }
+li {line-height: 1.5em;}
+nav { background-color: #ffffff;font-weight: bold;text-align: center;padding-top: 1em;}
+nav a { text-decoration: none; }
+footer {font-size: 75%;font-style: italic; font-family: Georgia, 'Times New Roman', Times, serif;text-align: center;padding: 2em}
+dt { color: #0194B5; }
+.web { color: #0194B5; font-weight: bold;}
+a{font-size: 90%;}
+#wrapper { background-color: #FFFFFF;
+     margin-left: auto; margin-right: auto;
+     width: 80%;
+     min-width: 960px; max-width: 2048px; box-shadow: 3px 3px 3px #333333; }
+#homehero {height: 400px;background-size: 60% 60%; background-image: url(CSTROCSPowerCat.png); background-repeat: no-repeat;background-position: center;background-color: black;}
